@@ -22,7 +22,7 @@
 
 **Middleware?!?! What's that?**
 
-[**Slides: Middleware** *(more of an extra resource than something we'll spend much time on in class)*](14-pagejs-middleware.pdf)
+**Slides: Middleware**
 
 - What is it?
 - Why are we using PageJS?
