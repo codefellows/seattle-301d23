@@ -13,7 +13,7 @@ Song for the day: ["The Final Countdown" by Gabe The Dog](https://www.youtube.co
 
 **Note:**
 
-- Lunch & Learn with John Peck at 12:15p today!
+- Lunch & Learn with [Jon Peck of Algorithmia](https://www.linkedin.com/in/peckjon/) at 12:15p today!
 - The current 201 does final project presentations at 1:30p this afternoon... you should take a look at at least a couple of them!
 
 ## Daily Plan
