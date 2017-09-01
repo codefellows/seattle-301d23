@@ -33,9 +33,14 @@ Song for the day: ["The Final Countdown" by Gabe The Dog](https://www.youtube.co
 
 **Any requested topics for more specific review? Let's make a list!**
 
-- (topic 1?)
-- (topic 2?)
-- (topic 3?)
+- FP / Callbacks
+- PageJS
+- Middleware
+- AJAX/JSON
+- Heroku
+- Arrow Functions => More than a single return statement?
+- When to use an IIFE?
+- `const/let/var` + other ES6
 
 `BREAK (10 minutes)`
 
