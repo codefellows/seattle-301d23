@@ -27,7 +27,7 @@ Your grade is based on your individual effort and your project's technical merit
     * Contains no unnecessary or commented-out code
  * **Generally useful and functional**
     * Works as expected with no bugs
-    * Has at least 3 interlinked "pages" with a clear navigation
+    * Has at least 3 distinct views with a clear navigation, one of which is an "About Us" view
     * Has at least two pages that accept and process user input
     * State is persisted between page reloads
     * Deployed live on the Internet with a meaningfully-named URL, either through a custom-named Heroku (or similar service) application or, ideally, through purchasing and connecting a domain (as of April 2017, Namecheap.com offers a wide variety of domain names for $0.88).
